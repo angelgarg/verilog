@@ -1,5 +1,5 @@
-module helloworld();
-  initial begin
-    $display("\n Hello World! \n");
-  end
+module hello_world();
+initial begin
+$display("\n Hello angel\n");
+end
 endmodule
